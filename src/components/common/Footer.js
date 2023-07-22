@@ -71,7 +71,9 @@ const Footer = () => {
             <div className="foot_copyright">
               <p>
                 {currYear} Pods. All Rights Reserved. Built by |{" "}
-                <a href="https://gulshansongara.netlify.app/">Stephen Mwau</a>
+                <a href="https://mwaustephen.com" target="_blank">
+                  Stephen Mwau
+                </a>
               </p>
             </div>
             <div className="foot_social">
