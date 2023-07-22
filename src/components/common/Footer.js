@@ -78,9 +78,9 @@ const Footer = () => {
               {footSocial.map((item) => {
                 const { id, icon, path } = item;
                 return (
-                  <Link to={path} key={id}>
+                  <a href={path} target="_blank">
                     {icon}
-                  </Link>
+                  </a>
                 );
               })}
             </div>
