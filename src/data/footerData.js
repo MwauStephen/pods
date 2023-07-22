@@ -1,10 +1,4 @@
-import {
-  FaFacebookF,
-  FaTwitter,
-  FaLinkedinIn,
-  FaGithub,
-  FaSnowflake,
-} from "react-icons/fa";
+import { FaTwitter, FaLinkedinIn, FaGithub, FaSnowflake } from "react-icons/fa";
 
 export const footMenu = [
   {
