@@ -5,7 +5,6 @@ import {
   AiOutlineShoppingCart,
   AiOutlineUser,
 } from "react-icons/ai";
-import { dropdownMenu } from "../../data/headerData";
 import commonContext from "../../contexts/common/commonContext";
 import cartContext from "../../contexts/cart/cartContext";
 import AccountForm from "../form/AccountForm";
