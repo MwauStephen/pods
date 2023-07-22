@@ -110,7 +110,7 @@ export const footSocial = [
   {
     id: 3,
     icon: <FaGithub />,
-    path: "/",
+    path: "https://github.com/MwauStephen",
   },
   {
     id: 4,
