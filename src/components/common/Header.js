@@ -55,35 +55,6 @@ const Header = () => {
                 </Link>
                 <div className="tooltip">Cart</div>
               </div>
-
-              <div className="user_action">
-                <span>
-                  <AiOutlineUser />
-                </span>
-                <div className="dropdown_menu">
-                  <h4>
-                    Hello!{" "}
-                    {formUserInfo && <Link to="*">&nbsp;{formUserInfo}</Link>}
-                  </h4>
-                  <p>Access account and manage orders</p>
-                  {!formUserInfo && (
-                    <button type="button" onClick={() => toggleForm(true)}>
-                      Login / Signup
-                    </button>
-                  )}
-                  <div className="separator"></div>
-                  <ul>
-                    {dropdownMenu.map((item) => {
-                      const { id, link, path } = item;
-                      return (
-                        <li key={id}>
-                          <Link to={path}>{link}</Link>
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </div>
-              </div>
             </nav>
           </div>
         </div>
