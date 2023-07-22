@@ -105,7 +105,7 @@ export const footSocial = [
   {
     id: 2,
     icon: <FaTwitter />,
-    path: "/https://twitter.com/Stephen_M_Mwau",
+    path: "https://twitter.com/Stephen_M_Mwau",
   },
   {
     id: 3,
@@ -115,6 +115,6 @@ export const footSocial = [
   {
     id: 4,
     icon: <FaLinkedinIn />,
-    path: "/",
+    path: "https://www.linkedin.com/in/mwaustephen/",
   },
 ];
