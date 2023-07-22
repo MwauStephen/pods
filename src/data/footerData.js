@@ -1,4 +1,10 @@
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaGithub } from "react-icons/fa";
+import {
+  FaFacebookF,
+  FaTwitter,
+  FaLinkedinIn,
+  FaGithub,
+  FaSnowflake,
+} from "react-icons/fa";
 
 export const footMenu = [
   {
@@ -99,8 +105,8 @@ export const footMenu = [
 export const footSocial = [
   {
     id: 1,
-    icon: <FaFacebookF />,
-    path: "/",
+    icon: <FaSnowflake />,
+    path: "https://linktr.ee/mwaustephen",
   },
   {
     id: 2,
