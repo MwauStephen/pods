@@ -5,6 +5,7 @@ import NewProducts from "../components/sliders/NewProducts";
 import SectionsHead from "../components/common/SectionsHead";
 import TopProducts from "../components/product/TopProducts";
 import Services from "../components/common/Services";
+import productsData from "../data/productsData";
 
 const Home = () => {
   return (
@@ -19,10 +20,6 @@ const Home = () => {
           <SectionsHead heading="New Products" />
           <NewProducts />
         </div>
-      </section>
-
-      <section id="banner" className="section">
-        <div className="container">hello am trying to render a banner</div>
       </section>
 
       <section id="products" className="section">
