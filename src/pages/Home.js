@@ -12,6 +12,7 @@ const Home = () => {
       <section id="hero">
         <HeroSlider />
       </section>
+      <Services />
 
       <section id="featured" className="section">
         <div className="container">
@@ -31,7 +32,7 @@ const Home = () => {
         </div>
       </section>
 
-      <Services />
+      {/* <Services /> */}
     </main>
   );
 };
