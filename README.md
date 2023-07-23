@@ -6,26 +6,26 @@ State management using Context API.
 
 ## Features:
 
-- #### Add Product to the Cart
-- #### Remove Product from the Cart
-- #### Increment / Decrement the Product's Quantity
-- #### Product's Total Price / Discount Calculations
-- #### Filters - Sort by / Filter by Options
-- #### Custom Hooks
-- #### Local Storage
-- #### Fully Responsive
-- #### Dark Theme
-- #### Multi Pages
-- #### ...and much more
+- Add Product to the Cart
+- Remove Product from the Cart
+- Increment / Decrement the Product's Quantity
+- Product's Total Price / Discount Calculations
+- Filters - Sort by / Filter by Options
+- Custom Hooks
+- Local Storage
+- Fully Responsive
+- Dark Theme
+- Multi Pages
+- Np payment intergration
 
 <br/>
 
 ## Technologies used:
 
-- #### **React JS**
-- #### **React Router**
-- #### **React Swiper**
-- #### **SASS**
+- React JS
+- React Router
+- React Swiper
+- SASS
 
 <br/>
 
@@ -37,20 +37,20 @@ State management using Context API.
 
 ## Available Scripts:
 
-#### `npm start`
+`npm start`
 
-#### `npm test`
+`npm test`
 
-#### `npm run build`
+`npm run build`
 
-#### `npm run eject`
+`npm run eject`
 
 <br/>
 
 ## Project Snapshots
 
-![movieflex screenshot - 1](snaps/home.png)
+![pods screenshot - 1](snaps/home.png)
 
-![movieflex screenshot -3](snaps/product.png)
+![pods screenshot -3](snaps/product.png)
 
-![movieflex screenshot -3](snaps/slider.png)
+![pods screenshot -3](snaps/slider.png)
