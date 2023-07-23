@@ -52,12 +52,12 @@ export const categoryMenu = [
   },
   {
     id: 3,
-    label: "Earphones",
+    label: "Cases",
     checked: false,
   },
   {
     id: 4,
-    label: "Neckbands",
+    label: "Max Cases",
     checked: false,
   },
 ];
