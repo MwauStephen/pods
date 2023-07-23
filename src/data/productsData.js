@@ -375,16 +375,16 @@ const productsData = [
     rateCount: 4,
     path: "/product-details/",
   },
-  {
-    id: 20,
-    image: ["/pods/airpods-banner.jpeg"],
-    category: "banner",
-  },
-  {
-    id: 21,
-    image: ["/pods/airpods-max.jpeg"],
-    category: "banner",
-  },
+  // {
+  //   id: 20,
+  //   image: ["/pods/airpods-banner.jpeg"],
+  //   category: "banner",
+  // },
+  // {
+  //   id: 21,
+  //   image: ["/pods/airpods-max.jpeg"],
+  //   category: "banner",
+  // },
 ];
 
 export default productsData;
