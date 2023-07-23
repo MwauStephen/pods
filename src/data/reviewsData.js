@@ -1,39 +1,39 @@
 const reviewsData = [
-    {
-        id: 1,
-        name: "Atharva Kumar",
-        date: "4 Aug 2022",
-        review: "Sound is awesome and as I expected, love it.",
-        rateCount: 5,
-    },
-    {
-        id: 2,
-        name: "Ritika Sen",
-        date: "15 July 2022",
-        review: "Very good and awesome product",
-        rateCount: 5,
-    },
-    {
-        id: 3,
-        name: "Bhavesh Joshi",
-        date: "10 June 2022",
-        review: "Super amazing product !!!",
-        rateCount: 4,
-    },
-    {
-        id: 4,
-        name: "Anandi Gupta",
-        date: "6 May 2022",
-        review: "Great NC, sound is a bit flat",
-        rateCount: 4,
-    },
-    {
-        id: 5,
-        name: "Arif Khan",
-        date: "27 April 2022",
-        review: "Very good but still has flaws!",
-        rateCount: 3,
-    },
-]
+  {
+    id: 1,
+    name: "Abel Doe",
+    date: "4 April 2023",
+    review: "Elegant design, premium sound. Worth it!.",
+    rateCount: 5,
+  },
+  {
+    id: 2,
+    name: "John Doe",
+    date: "15 July 2023",
+    review: "Noise-cancelling bliss, fits perfectly. Game-changer!",
+    rateCount: 5,
+  },
+  {
+    id: 3,
+    name: "Jane Doe",
+    date: "10 June 2022",
+    review: "Crystal-clear audio, upgraded performance. Impressive upgrade",
+    rateCount: 4,
+  },
+  {
+    id: 4,
+    name: "Shivon Royce",
+    date: "6 May 2023",
+    review: "Improved sound, easy to use. Fantastic!",
+    rateCount: 4,
+  },
+  {
+    id: 5,
+    name: "Jerry Kim",
+    date: "27 April 2023",
+    review: "Seamless, wireless music. Love my AirPods!",
+    rateCount: 3,
+  },
+];
 
 export default reviewsData;
