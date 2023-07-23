@@ -46,3 +46,11 @@ State management using Context API.
 #### `npm run eject`
 
 <br/>
+
+## Project Snapshots
+
+![movieflex screenshot - 1](snaps/home.png)
+
+![movieflex screenshot -3](snaps/product.png)
+
+![movieflex screenshot -3](snaps/slider.png)
