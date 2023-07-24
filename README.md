@@ -54,3 +54,50 @@ State management using Context API.
 ![pods screenshot -3](snaps/product.png)
 
 ![pods screenshot -3](snaps/slider.png)
+
+## Deploy using fireabase
+
+Install Firebase CLI:
+
+```sh
+$ npm install -g firebase-tools
+```
+
+## Set up Firebase project
+
+Create a new Firebase project on the Firebase Console
+
+```sh
+ (https://console.firebase.google.com)
+
+```
+
+## Login to firebase via the CLI
+
+```sh
+$ firebase login
+```
+
+## Initialize Firebase project
+
+```sh
+firebase init
+```
+
+## Configure Firebase Hosting
+
+During the initialization process, select "Hosting" from the available Firebase features.
+
+Follow the prompts to choose your Firebase project, set up the directory for your project's public files (typically build or dist for a React project), and configure other options.
+
+## Build your React project
+
+```sh
+npm run build
+```
+
+## Deploy to Firebase Hosting
+
+```sh
+firebase deploy
+```
